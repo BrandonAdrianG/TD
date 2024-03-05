@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-author: '"Brian Carrillo, José Chavira, Brandon Gómez, Oscar Ramírez"'
+author: '"Brian Carrillo, José Chavira, Brandon Gómez"'
 date: "2024-03-05"
 output: html_document
 ---
